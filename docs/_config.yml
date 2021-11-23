@@ -26,7 +26,11 @@ github_username:  skterry
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: 
+=======
+theme:
+>>>>>>> 8d032f9b38d416943b8aed9726cad6d0d25dfca5
 plugins:
   - jekyll-feed
 
