@@ -131,7 +131,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2445,16 +2445,16 @@ input, select, textarea {
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: 0.25em;
-		border: solid 2px #efefef;
+		border: solid 2px #C0d8dc;
 		color: #787878 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
-		height: 3.15em;
-		height: calc(2.75em + 6px);
-		line-height: 2.75em;
+		height: 1.15em;
+		height: calc(1.75em + 6px);
+		line-height: 1.75em;
 		min-width: 9.5em;
-		padding: 0 0.5em;
+		padding: 0 0.0em;
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
