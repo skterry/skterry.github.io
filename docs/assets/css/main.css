@@ -1791,7 +1791,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		font-size: 2em;
+		font-size: 2.5em;
 	}
 
 /* Form */
@@ -3228,10 +3228,17 @@ input, select, textarea {
 			}
 
 	}
-/*Center Images */
+/*Center Images and Caption */
 .center {
   display: block;
   margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.centercap1 {
+  display: block;
+  margin-left: 90px;
   margin-right: auto;
   width: 50%;
 }
