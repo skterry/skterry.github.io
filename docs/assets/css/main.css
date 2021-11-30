@@ -3253,7 +3253,7 @@ input, select, textarea {
 
 .centercap3 {
   display: block;
-  margin-left: 130px;
+  margin-left: auto;
   margin-right: auto;
   width: 70%;
 
