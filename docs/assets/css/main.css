@@ -2694,7 +2694,7 @@ input, select, textarea {
 		max-width: 54em;
 		padding: 1em 4em 4em 4em;
 		width: calc(100% - 32%);
-		color: #3AA6A3 !important;
+		color: #868989 !important;
 	}
 
 		#main > section {
@@ -3241,4 +3241,20 @@ input, select, textarea {
   margin-left: 90px;
   margin-right: auto;
   width: 50%;
+}
+
+.centercap2 {
+  display: block;
+  margin-left: 130px;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.centercap3 {
+  display: block;
+  margin-left: 130px;
+  margin-right: auto;
+  width: 70%;
+
 }
