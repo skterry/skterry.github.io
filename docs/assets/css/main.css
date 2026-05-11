@@ -2017,6 +2017,7 @@ input, select, textarea {
 			text-transform: none !important;
 			font-family: 'Font Awesome 7 Free';
 			font-weight: 400;
+			content: var(--fa);
 		}
 
 		.icon > .label {
